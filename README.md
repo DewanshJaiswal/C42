@@ -1,1 +1,1 @@
-# C42
+# Box Class
